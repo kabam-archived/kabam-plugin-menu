@@ -1,0 +1,31 @@
+{
+  "anonimus":{
+    [
+	{
+	  "name":"About us",
+	  "help":"Something about us",
+	  "url":"/about"
+	},
+	{
+	  "name":"FAQ",
+	  "help":"Frequently asked questions",
+	  "url":"/faq"
+	}
+    ]
+  },
+  "roles":{
+    "worker":{},
+    "moderator":{},
+    "supervisor":{},
+    "admin":{}
+  },
+  "user":{
+    [
+      	{
+	  "name":"LogOut",
+	  "help":"Leave site",
+	  "url":"javascript:logout()"
+	}
+    ]   
+  }
+}
