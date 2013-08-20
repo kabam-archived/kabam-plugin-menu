@@ -1,0 +1,23 @@
+{
+  "name": "kabam-plugin-menu",
+  "version": "0.0.1",
+  "description": "Kabam-plugin for creating menu  from menu.json for static html and spa frontends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mykabam/kabam-plugin-menu.git"
+  },
+  "keywords": [
+    "kabam",
+    "plugin",
+    "menu"
+  ],
+  "author": "Anatoliy Ostroumov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykabam/kabam-plugin-menu/issues"
+  }
+}
